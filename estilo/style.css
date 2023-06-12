@@ -501,6 +501,7 @@ textarea {
   ::-webkit-scrollbar {
     display: none;
   }
+}
 
 @media screen and (max-width: 400px) {
   .content-card {
